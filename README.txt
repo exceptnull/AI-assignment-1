@@ -4,7 +4,7 @@ Python 3.11, Conda research.
 Dependencies: torch, transformers 5.16.1, huggingface_hub, pandas, pyarrow,
 z3-solver 5.3.1.0, xgrammar 0.2.8, lark, lemminflect 0.2.3, scikit-learn, ipykernel.
 Model: Qwen/Qwen3-4B-Instruct-2507 (about 8 GB of weights).
-16 GB CUDA memory recommended; GPU 1 is preferred. CPU is also supported.
+16 GB CUDA memory recommended; GPU is preferred. CPU is also supported.
 Logic inputs run on CPU without loading the model. English inputs may need the model.
 First run downloads missing model weights and public datasets into data/.
 
