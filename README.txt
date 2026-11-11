@@ -28,4 +28,3 @@ Detailed results and metrics: data/outputs/ai-assignment-evaluation/.
 Paths are relative to the parent of submission/.
 
 Included submission.csv: 532 public validation predictions, 479 correct (90.04%).
-No private test data was available.
